@@ -1,0 +1,22 @@
+.button {
+  font-weight: 600;
+  height: 48px;
+  border-radius: 40px;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.05);
+  outline: none;
+  border: none;
+}
+
+.button—primary {
+  background-color: #000;
+  color: #fff;
+}
+
+.button—secondary {
+  background-color: #fff;
+  color: #000;
+}
+
+.button—third {
+  background-color: red;
+}
